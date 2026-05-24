@@ -1,4 +1,4 @@
 # DPO, ORPO, GRPO, and PPO
-- **Part 1:** Theory [↗](docs/RL_course_notes_w1_1-26.pdf)
-- **Part 2:** Comparision [↗](docs/RL_course_notes_w1_1-26.pdf)
-- **Part 3:** Real World [↗](docs/RL_course_notes_w1_1-26.pdf)
+- **Part 1:** Theory [↗](docs/PPO-DPO-ORPO-GRPO_Part-1.pdf)
+- **Part 2:** Comparision [↗](docs/PPO-DPO-ORPO-GRPO_Part-2.pdf)
+- **Part 3:** Real World [↗](docs/PPO-DPO-ORPO-GRPO_Part-3.pdf)
