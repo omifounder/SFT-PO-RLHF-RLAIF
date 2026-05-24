@@ -3,4 +3,4 @@
 - **Part 2:** Comparision [↗](docs/PPO-DPO-ORPO-GRPO_Part-2.pdf)
 - **Part 3:** Real World [↗](docs/PPO-DPO-ORPO-GRPO_Part-3.pdf)
 
-![Description](docs/PPO_DPO_ORPO_GRPO_Concept.png)
+![Description](images/PPO_DPO_ORPO_GRPO_Concept.png)
